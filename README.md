@@ -51,7 +51,6 @@ Após a criação do Índice em Expressão, a consulta passou a levar **[0.7 seg
    1. `01_criacao_tabelas.sql`
    2. `02_geracao_dados.sql` (Atenção: este script pode levar alguns minutos).
    3. `03_testes_performance.sql` (Observe os planos e tempos de execução).
-   4. `04_limpeza_total.sql` (Para apagar as tabelas criadas).
 
 ## 5. Conclusão
 
