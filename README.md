@@ -44,7 +44,7 @@ Após a criação do Índice em Expressão, a consulta passou a levar **[0.7 seg
 
 ## 4. Como Executar os Testes
 
-1. Clone este repositório: `git clone [URL_DO_SEU_REPO]`
+1. Clone este repositório: `git clone https://github.com/DouglasFernan/otimizador-indices.git`
 2. Crie um banco de dados no seu PostgreSQL (ex: `CREATE DATABASE trabalho_pabd;`).
 3. Conecte-se a este banco de dados.
 4. Execute os scripts SQL na pasta `/scripts` na seguinte ordem:
