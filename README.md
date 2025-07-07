@@ -1,6 +1,6 @@
 # Otimização de Banco de Dados com Índices Avançados no PostgreSQL
 
-Este repositório contém os artefatos do trabalho da disciplina de PABD (Projeto de Análise de Banco de Dados) do curso de Análise e Desenvolvimento de Sistemas.
+Este repositório contém os artefatos do trabalho da disciplina de PABD (Programação e Administração de Banco de Dados) do curso de Análise e Desenvolvimento de Sistemas.
 
 **Integrantes:**
 
